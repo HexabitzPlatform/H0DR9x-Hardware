@@ -37,9 +37,6 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
-VaultGUID=
-ReleaseVaultName=
-ItemGUID=
 IncludeDesignInRelease=0
 CrossRefSheetStyle=0
 CrossRefLocationStyle=1
@@ -104,16 +101,16 @@ GenerateClassCluster=0
 DocumentUniqueId=GNGXNYEU
 
 [Parameter1]
-Name=revision
-Value=0
+Name=Module_Description
+Value=MQ135 - Air Quality Sensor
 
 [Parameter2]
 Name=Module_Name
 Value=H0DR9x
 
 [Parameter3]
-Name=Module_Description
-Value=MQ135 - Air Quality Sensor
+Name=revision
+Value=0
 
 [Configuration1]
 Name=Sources
